@@ -27,3 +27,18 @@ body{
     line-height: 42px; 
     letter-spacing: -0.04em;
     text-align: left;
+}
+.nav{
+    display: flex;
+    gap: 26px;
+}
+
+.nav a{
+    font-family: Space Mono;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: white;
+}

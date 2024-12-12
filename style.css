@@ -129,3 +129,23 @@ body{
     border: 1.5px solid rgba(173, 135, 10, 1);
     background-color: red;
 }
+#second{
+    width: 416px;
+    height: 236px;
+    gap: 0px;
+    border: 1.5px 0px 0px 0px;
+    opacity: 0px;
+}
+#third{
+    width: 416px;
+    height: 418px;
+    gap: 6px;
+}
+#fourth{
+    width: 416px;
+    height: 418px;
+    gap: 0px;
+    border: 1.5px 0px 0px 0px;
+    opacity: 0px;
+    
+}

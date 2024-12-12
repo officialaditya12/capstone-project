@@ -8,3 +8,12 @@ body{
     /* margin-top: 50px; */
     margin: 2rem 4rem;
 }
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1.5px;
+    color: white;
+}

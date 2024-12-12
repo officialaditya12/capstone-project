@@ -17,3 +17,13 @@ body{
     border-bottom: 1.5px;
     color: white;
 }
+.header h1{
+    margin: 0;
+    width: 219px;
+    height: 29px;
+    font-family: Space Mono;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 42px; 
+    letter-spacing: -0.04em;
+    text-align: left;

@@ -421,4 +421,18 @@ p{
   .contact-form textarea::placeholder {
     color: #777;
   }
+  .contact-form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #ffc800;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
   
+  .contact-form button:hover {
+    background-color: #e5a700;
+  }

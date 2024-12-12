@@ -365,3 +365,29 @@ p{
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
+  .subscription button:hover {
+    background-color: #e5a700;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .social-icons a img {
+    width: 30px;
+    height: 30px;
+  }
+  .contact-form {
+    width: 1372px;
+    height: 356px;
+    background-color: #111;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    /* text-align:center; */
+    justify-content: center;
+    align-items: center;
+    
+  }

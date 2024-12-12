@@ -464,3 +464,16 @@ p{
     background-color: #e6e6cc;
     color: #000;
   }
+  @media (max-width: 1200px) {
+    .header h1 {
+      font-size: 36px;
+    }
+  
+    .nav a {
+      font-size: 18px;
+    }
+  
+    .landing-page h3 {
+      font-size: 3rem;
+    }
+  }

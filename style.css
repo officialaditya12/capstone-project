@@ -169,3 +169,33 @@ body{
     border: 1.5px 0px 0px 0px;
     opacity: 0px;
 }
+#eight{
+    width: 416px;
+    height: 418px;
+    gap: 0px;
+    border: 1.5px 0px 0px 0px;
+    opacity: 0px;
+}
+#ninth{
+    width:416px;
+    height:325px;
+}
+.article{
+    color: white;
+}
+.article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px;
+}
+.article1{
+    width: 900px;
+    height: 260px;
+    font-family: Space Mono;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}

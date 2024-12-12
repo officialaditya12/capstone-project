@@ -149,3 +149,23 @@ body{
     opacity: 0px;
     
 }
+#fifth{
+    width:416px;
+    height:325px;
+    gap: 6px;
+    opacity: 0px;
+
+}
+#sixth{
+    width:416px;
+    height:236px;
+    gap: 6px;
+    opacity: 0px;
+}
+#seventh{
+    width: 416px;
+    height: 236px;
+    gap: 0px;
+    border: 1.5px 0px 0px 0px;
+    opacity: 0px;
+}

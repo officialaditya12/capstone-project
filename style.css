@@ -109,3 +109,23 @@ body{
     flex: flex;
     color: white;
   }
+  .text{
+    width: 416px;
+    height: 48px;
+  }
+  .text p{
+    margin-top: -4px;
+    /* background-color: red; */
+    font-size: 20px;
+    margin-bottom: -2px;
+}
+.para{
+    color: gray;
+    font-family: 'Space Mono';
+}
+.first{
+    width: 416px;
+    height: 379px;
+    border: 1.5px solid rgba(173, 135, 10, 1);
+    background-color: red;
+}

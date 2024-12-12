@@ -82,3 +82,30 @@ body{
     margin-bottom: 20px;
     margin-top: -10px; 
 }
+.personal {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    margin-top: 20px;
+    width: 1352px;
+    height: 772px;
+
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+  }
+  
+  .column img {
+    width: 416px;
+    /* max-width: 325px; */
+    height: auto; 
+    object-fit: cover;
+
+  }
+  .children{
+    flex: flex;
+    color: white;
+  }

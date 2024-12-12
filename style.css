@@ -337,3 +337,31 @@ p{
     font-weight: bold;
     color: white;
   }
+  .subscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .subscription input {
+    width: 300px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #333;
+    border-radius: 5px 0 0 5px;
+    background-color: #222;
+    color: #e5e5e5;
+  }
+  
+  .subscription button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #ffc800;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }

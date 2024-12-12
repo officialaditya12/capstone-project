@@ -248,3 +248,66 @@ p{
     display: flex;
     justify-content: space-between;
 }
+.testimonial-card {
+    display: flex;
+    align-items: center;
+    background-color: rgba(200, 183, 126, 0);
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 288px;
+    height: 162px;
+  }
+  .testimonial-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  .testimonial-content {
+    color: #333333;
+    line-height: 1.4;
+  }
+  .name {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white;
+  }
+  .position {
+    font-size: 12px;
+    margin-bottom: 10px;
+    color:rgba(235, 229, 209, 0.62);
+  }
+  .quote {
+    font-size: 20px;
+    font-weight: bold;
+    color:rgba(235, 229, 209, 0.62);
+  }
+  .landingpage{
+    text-align: center;
+    width: 1372px;
+    height: 380px;
+    margin-top: 100px;
+    background: radial-gradient(63.68% 40.76% at 50% 103.08%, rgba(249, 225, 149, 0.16) 0%, rgba(13, 11, 2, 0) 100%);
+
+  }
+  .content {
+    width: 900px;
+    margin: 70px 190px;
+}
+  
+  .ready{
+    font-size: 3rem;
+    margin: 0;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .contact{
+    font-size: 1.2rem;
+    margin: 20px 0;
+    color: white;
+  }

@@ -380,8 +380,8 @@ p{
     height: 30px;
   }
   .contact-form {
-    width: 1372px;
-    height: 356px;
+    width: 1290px;
+    height: 380px;
     background-color: #111;
     padding: 40px;
     border-radius: 8px;
@@ -435,4 +435,32 @@ p{
   
   .contact-form button:hover {
     background-color: #e5a700;
+  }
+  .left-content {
+    display: flex;
+    align-items: center;
+    
+  }
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #e6e6cc;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 60px;
+    width: 1350px;
+    height: 40px;
+  }
+ a{
+    text-decoration: none;
+    color: #e6e6cc;
+    border: 1px solid #e6e6cc;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+
+  a:hover{
+    background-color: #e6e6cc;
+    color: #000;
   }

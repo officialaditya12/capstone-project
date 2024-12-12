@@ -42,3 +42,27 @@ body{
     text-align: left;
     color: white;
 }
+.container{
+    width: 1372px;
+    height: 4451px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+
+
+.main-content{
+    /* width: 1372px;
+    height: 4383px; */
+    
+}
+.landing-page{
+    /* width: 1372px;
+    height: 1094px;
+    border-bottom: 1.5px;
+    padding-top: 74px;
+    padding-bottom: 74px;
+    gap: 34px; */
+    position: relative;
+    text-align: center;
+    color: white;
+}

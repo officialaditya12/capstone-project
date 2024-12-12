@@ -223,3 +223,28 @@ body{
     flex-direction: row;
     gap: 120px;
 }
+p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.landing-page{
+    width: 1372px;
+    height: 340px;
+    color: white;
+    margin: 80px;
+}
+.client{
+    width: 1260px;
+    height: 52px;
+    font-weight: 700;
+    text-align: center;
+    font-size: 48px;
+}
+.testimonial{
+    width: 1372px;
+    height: 186px;
+    margin-top: -350px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -66,3 +66,19 @@ body{
     text-align: center;
     color: white;
 }
+.mainImage{
+    margin-right: 20px;
+}
+.landing-page h3{
+    color: white;
+    font-family: Space Mono;
+    font-size: 120px;
+    font-weight: 700;
+    line-height: 120px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 20px;
+    margin-top: -10px; 
+}

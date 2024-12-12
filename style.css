@@ -199,3 +199,27 @@ body{
     letter-spacing: -0.02em;
     text-align: center;
 }
+.services{
+    gap: 34px;
+    padding: 34px 0 34px 0;
+    display: flex;
+    /* align-items:; */
+    justify-content: space-between;
+    margin:-100px 20px ;
+    color: white;
+}
+.serv{
+    color: white;
+    font-weight: 700;
+    size: 28px;
+    line-height: 32px;
+}
+.count{
+    gap: 12px;
+}
+.conttt{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+}

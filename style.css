@@ -455,7 +455,7 @@ p{
  a{
     text-decoration: none;
     color: #e6e6cc;
-    border: 1px solid #e6e6cc;
+    /* border: 1px solid #e6e6cc; */
     padding: 5px 10px;
     border-radius: 5px;
   }
@@ -481,7 +481,7 @@ p{
     .header {
       flex-direction: column;
       text-align: center;
-    }
+    } 
   
     .nav {
       flex-direction: column;

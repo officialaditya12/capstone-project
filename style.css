@@ -67,7 +67,11 @@ body{
     color: white;
 }
 .mainImage{
-    margin-right: 20px;
+  /* position: absolute; */
+    margin-left: 20px;
+}
+.image{
+  width: 100%;
 }
 .landing-page h3{
     color: white;
@@ -81,6 +85,7 @@ body{
     text-decoration-skip-ink: none;
     margin-bottom: 20px;
     margin-top: -10px; 
+    margin-right: 100px;
 }
 .personal {
     display: flex;
